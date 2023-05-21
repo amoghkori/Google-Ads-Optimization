@@ -1,8 +1,4 @@
 # Google-Ads-Optimization
-# Data Analyst Apprenticeship at LabelMaster
-
-## Duration: Jan 2023 - May 2023 (5 months)
-## Location: Chicago, Illinois, United States (Remote)
 
 ### Project Overview:
 - Spearheaded the development of an advanced algorithm in collaboration with LabelMaster to maximize revenue and enhance conversion value in Google Ads expenditure.
